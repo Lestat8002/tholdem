@@ -1,0 +1,6 @@
+{
+  "name": "AI Texas Hold'em: Bunny Dealer",
+  "description": "Play Texas Hold'em poker against an AI dealer, featuring a dynamically generated game table with an anime-style bunny girl hostess. The AI, powered by Gemini, makes strategic decisions, while another Gemini model generates the unique visual setting.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
